@@ -11,3 +11,8 @@ fi
 servicename=$1
 action=$2
 sudo systemctl $action $servicename
+
+
+
+
+#Ref: https://www.digitalocean.com/community/tutorials/read-command-line-arguments-in-shell-scripts
